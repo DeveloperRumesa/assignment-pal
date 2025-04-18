@@ -1,0 +1,25 @@
+.flag{
+    position: relative;
+    height: 390px;
+    width: 600px;
+    border:3px solid black;
+    margin: 200px;
+}
+.color{
+    height: 130px;
+    width: 600px;
+}
+.bl{
+    background-color: black;
+}
+.wh{
+    background-color: white;
+}
+.gr{
+    background-color: green;
+}
+img{
+    position: absolute;
+    height: 390px;
+    width: 300px;
+}
